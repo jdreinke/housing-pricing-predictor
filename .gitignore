@@ -12,4 +12,4 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
-!/Housing Predictor Analysis Notebook.ipynb
+/Housing Predictor Analysis Notebook.ipynb
